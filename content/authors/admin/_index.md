@@ -114,6 +114,8 @@ languages:
     percent: 100
   - name: English
     percent: 75
+  - name: Russian
+    percent: 20
 
 
 # Awards.

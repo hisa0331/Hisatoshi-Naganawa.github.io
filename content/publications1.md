@@ -4,7 +4,7 @@ date: 2023-10-24
 type: landing
 
 design:
-  spacing: '5rem'
+  spacing: '4rem'
 
 # Note: `username` refers to the user's folder name in `content/authors/`
 
@@ -12,21 +12,21 @@ design:
 sections:
   - block: collection
     content:
-      title: Journal Papers
+      title: Journal Papers 
       text: ""
       filters:
         folders:
-          - publication
+          - publication/journal-papers
         exclude_featured: false
     design:
       view: citation
   - block: collection
     content:
-      title: Conference Papers
+      title: Conference Papers　
       text: ""
       filters:
         folders:
-          - publication
+          - publication/conference-papers
         exclude_featured: false
     design:
       view: citation
@@ -36,8 +36,12 @@ sections:
       text: ""
       filters:
         folders:
-          - publication
+          - publication/book
         exclude_featured: false
     design:
       view: citation
+  - block: resume-awards
+    content:
+      title: Awards
+      username: admin
 ---
