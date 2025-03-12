@@ -20,7 +20,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: Data Scientist
 
 # Organizations/Affiliations to display in Biography blox
 #organizations:
@@ -31,7 +31,7 @@ role: Chief Scientist
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: '2117053z@gsuite.kobe-u.ac.jp'
+    url: 'mailto:2117053z@gsuite.kobe-u.ac.jp'
     label: E-mail Me
 #  - icon: brands/x
 #    url: https://twitter.com/GetResearchDev
